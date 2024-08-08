@@ -1,4 +1,4 @@
-# Amazon_Sales_Dashboard
+# Amazon_Dashboard
 
 **Amazon Sales Dashboard Using Power BIAmazon Sales Dashboard Using Power BI**
 
